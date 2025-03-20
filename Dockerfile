@@ -8,4 +8,4 @@ COPY your_application.exe /app/your_application.exe
 WORKDIR /app
 
 # 运行EXE文件
-CMD ["your_application.exe"]
+CMD ["google.exe"]
